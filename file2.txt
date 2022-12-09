@@ -2,3 +2,4 @@ Goodbuy!
 Some other line
 line flom user2
 another line from user2
+critical bug fixed
