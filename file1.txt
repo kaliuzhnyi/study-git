@@ -5,3 +5,4 @@ qazwsx
 line from user2
 line from user1
 some new feature
+line form user1 - lesson about rebase
